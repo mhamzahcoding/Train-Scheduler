@@ -1,3 +1,2 @@
-# Train-Scheduler
-
-Link to gihub pages:
+#Train-Scheduler
+Link to github pages: 
