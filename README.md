@@ -16,4 +16,4 @@ Train schedule is an application that incorporates Firebase to host arrival and 
 The application is retrieving and manipulating this information with Moment.js.
 This application provides up-to-date information about various trains, the arrival times and how many minutes remain until they arrive at their station.
 
-https://github.com/mhamzahhanif/Train-Scheduler/wiki/Search-Results
+![app1](https://github.com/mhamzahhanif/Train-Scheduler/blob/master/assets/images/working1.PNG)
